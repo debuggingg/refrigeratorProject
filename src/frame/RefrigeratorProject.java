@@ -10,7 +10,6 @@ public class RefrigeratorProject {
 
         // CardLayout 설정해야 화면 부드럽게 넘어간다는거 알았음
         // 나중에 설정
-
         // EventQueue.invokeLater를 사용하여 스윙 코드를 이벤트 디스패치 스레드에서 실행
         EventQueue.invokeLater(new Runnable() {
             public void run() {

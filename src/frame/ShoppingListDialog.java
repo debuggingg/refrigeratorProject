@@ -25,7 +25,6 @@ public class ShoppingListDialog extends JDialog {
             e.printStackTrace();
         }
     }
-
     /**
      * Create the dialog.
      */

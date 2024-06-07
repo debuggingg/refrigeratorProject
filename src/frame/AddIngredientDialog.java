@@ -53,7 +53,6 @@ public class AddIngredientDialog extends JDialog {
         addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
-
                 nameTF.setText("");
                 DDayTF.setText("");
                 setVisible(false);
