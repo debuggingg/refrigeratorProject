@@ -29,6 +29,7 @@ public class LoadingScreen extends JFrame {
             }
         });
     }
+
     /**
      * Create the frame.
      */

@@ -59,7 +59,6 @@ public class AddIngredientDialog extends JDialog {
             }
         });
 
-
         getContentPane().setLayout(new BorderLayout());
         contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));
         getContentPane().add(contentPanel, BorderLayout.CENTER);
