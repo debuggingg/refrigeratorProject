@@ -51,10 +51,6 @@ public class MainFrame extends JFrame {
         });
     }
 
-    /**
-     * Create the frame.
-     */
-
     // RefrigeratorProject에서 실행시키는게 아니라 MainFrame만 실행시키고 싶으면
     // MainFrame() 매개변수 지우고 참조되는거 다 지우고 RefrigeratorProject 파일에서 MainFrame 호출할 때 생성자 지우면
     // MainFrame()만 호출 가능합니다.
