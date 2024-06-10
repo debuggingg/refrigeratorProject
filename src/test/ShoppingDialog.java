@@ -24,7 +24,7 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
 
-import xyz.itwill.swing.StudentFrameApp;
+//import xyz.itwill.swing.StudentFrameApp;
 
 public class ShoppingDialog extends JDialog {
 
